@@ -54,7 +54,7 @@ div .map{
     flex-wrap: wrap;
     flex-direction:row ;
     align-items: start;
-    padding-left: 20px;
+    padding-left: 30px;
 }
 
 .location h3{
